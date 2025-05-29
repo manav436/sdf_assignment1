@@ -43,3 +43,10 @@ With version control, it is possible to:
 - `git merge`: [Combines changes from one branch into another.]
 - `git checkout`: [Switches between branches or restores files in the repository.]
 
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- firstly, i can even do work at the last moment.
+- i am fast learner.
+- 
