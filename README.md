@@ -22,3 +22,10 @@ nothing added to commit but untracked files present (use "git add" to track)
 - `code`: [Opens Visual Studio Code from Git Bash.]
 - `ls`: [Displays a list of files and directories in the current location.]
 
+## Why Version Control is Important
+
+With version control, it is possible to:
+
+- Efficiently manage changes to files over time.
+- Allow multiple developers to collaborate on the same project simultaneously.
+- Create and manage multiple branches for parallel development.
