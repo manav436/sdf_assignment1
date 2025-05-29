@@ -1,3 +1,16 @@
+# COMP-1327 Assignment 1
+
+## Description
+
+In this project I am demonstrating my understanding of:
+
+- Setting up a project.
+- Initializing a repository.
+- Performing version control (Git) tasks.
+
+## Author
+Manav singla
+
 ## First git status output
 
 Your branch is up to date with 'origin/main'.
@@ -49,4 +62,3 @@ There are things that set me apart from others:
 
 - firstly, i can even do work at the last moment.
 - i am fast learner.
-- 
